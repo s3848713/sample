@@ -175,6 +175,12 @@ p.collapse:not(.show)
     text-align: left;
     padding-bottom: 10px;
 }
+.phh{
+    color: #000000 ;
+    text-align: left;
+    /* padding-bottom: 10px; */
+
+}
 .ph3
 {
     color: #efefef ;
@@ -186,6 +192,12 @@ p.collapse:not(.show)
 {
     padding-left: 25px;
     color: #efefef ;
+    text-align: justify;
+}
+.pq
+{
+    padding-left: 25px;
+    color: #000000 ;
     text-align: justify;
 }
 .ppb
